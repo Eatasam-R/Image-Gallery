@@ -1,0 +1,1 @@
+Hey there! My name is Eatasam. I'm currently a student of BS in Computer Science & I've learnt a new skill which is Web-Development. This project is developed on the instructions of B.Y.T.E by Arithmatrix Tech. And considered as my project as an intern in the respective company.
